@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Gourab — a developer working at the intersection of Machine Learning and intelligent systems.<br>- CSE Student at NIT Rourkela building practical software solutions<br>- ML / Deep Learning Enthusiast exploring NLP and Transformers<br>- Currently building projects around LLMs, RAG pipelines and Generative AI<br>- Exploring LangChain, FAISS and AI-powered applications<br>- Strengthening my foundations in DSA, System Design and Backend Development
+I'm Gourab — a developer working at the intersection of Machine Learning and intelligent systems.<br>- CSE Student at NIT Rourkela building practical software solutions<br>- ML / Deep Learning Enthusiast exploring NLP and Transformers<br>- Currently building projects around LLMs, RAG pipelines and Generative AI<br>- Exploring AI-powered applications<br>- Strengthening my foundations in DSA, Machine Learning, and AI Engineering.
 
 
 ## 🌐 Socials:
